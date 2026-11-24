@@ -1,0 +1,28 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.588808",
+   "Default View_TopLeft":"-404,-1104",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.5.8 2022-09-21 7111 VDI=41 GEI=38 GUI=JA:10.0
+#  -string -flagsOSRD
+preplace inst zynq_ultra_ps_e_0 -pg 1 -lvl 2 -x 650 -y -490 -defaultsOSRD
+preplace inst LMS_2D_AXI_Filter_0 -pg 1 -lvl 2 -x 650 -y -660 -defaultsOSRD
+preplace inst axi_dma_0 -pg 1 -lvl 1 -x 200 -y -660 -defaultsOSRD
+preplace inst ps8_0_axi_periph -pg 1 -lvl 4 -x 1470 -y -670 -defaultsOSRD
+preplace inst rst_ps8_0_96M -pg 1 -lvl 3 -x 1150 -y -520 -defaultsOSRD
+preplace netloc zynq_ultra_ps_e_0_pl_clk0 1 0 4 30 -510 360 -390 970 -420 1330
+preplace netloc zynq_ultra_ps_e_0_pl_resetn0 1 2 1 980 -540n
+preplace netloc rst_ps8_0_96M_peripheral_aresetn 1 0 4 20 -790 NJ -790 NJ -790 1320
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM0_LPD 1 2 2 950 -760 NJ
+preplace netloc ps8_0_axi_periph_M00_AXI 1 0 5 30 -820 NJ -820 NJ -820 NJ -820 1610
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM1_FPD 1 2 2 960 -740 NJ
+preplace netloc axi_dma_0_M_AXIS_MM2S 1 1 1 360 -690n
+preplace netloc LMS_2D_AXI_Filter_0_M_AXIS 1 0 3 40 -780 NJ -780 940
+levelinfo -pg 1 0 200 650 1150 1470 1630
+pagesize -pg 1 -db -bbox -sgen -410 -860 1660 180
+"
+}
+{
+   "da_axi4_cnt":"3",
+   "da_zynq_ultra_ps_e_cnt":"1"
+}
