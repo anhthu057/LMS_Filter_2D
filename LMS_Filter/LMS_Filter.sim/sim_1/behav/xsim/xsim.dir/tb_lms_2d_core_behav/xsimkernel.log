@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_lms_2d_core_behav/xsimk.exe -simmode gui -wdb tb_lms_2d_core_behav.wdb -simrunnum 0 -socket 49645
+Design successfully loaded
+Design Loading Memory Usage: 11280 KB (Peak: 11280 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 12080 KB (Peak: 12080 KB)
+Simulation CPU Usage: 108 ms

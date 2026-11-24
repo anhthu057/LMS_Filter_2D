@@ -1,0 +1,5 @@
+srcscan starts
+INFO: analyzing module kernel (VERI-9002)
+INFO: analyzing module lms_2d_core (VERI-9002)
+INFO: analyzing module lms_2d_top (VERI-9002)
+srcscan exits with return value 0
