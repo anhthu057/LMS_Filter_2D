@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+tb_lms_2d_top: Bat dau mo phong anh 256x256, 2 frame (RESET_W=1, MU_LOG2=6)...
+==> tb_lms_2d_top PASS (129032 pixel hop le, 2 frame anh 256x256)
+$finish called at time : 1756485 ns : File "/home/anhthu/LMS_Filter/LMS_Filter.srcs/sim_1/new/tb_lms_2d_top.v" Line 333
